@@ -1,0 +1,5 @@
+2025-01-05,Food,15.00,Lunch at cafe
+2025-01-06,Transport,10.00,Bus fare to work
+2025-01-07,Groceries,50.25,Weekly grocery shopping
+2025-01-08,Entertainment,20.00,Movie night
+2025-01-09,Food,30.50,Dinner with friends

@@ -1,0 +1,32 @@
+[
+    {
+        "Date": "2025-01-05",
+        "Category": "Food",
+        "Amount": 15.00,
+        "Description": "Lunch at cafe"
+    },
+    {
+        "Date": "2025-01-06",
+        "Category": "Transport",
+        "Amount": 10.00,
+        "Description": "Bus fare to work"
+    },
+    {
+        "Date": "2025-01-07",
+        "Category": "Groceries",
+        "Amount": 50.25,
+        "Description": "Weekly grocery shopping"
+    },
+    {
+        "Date": "2025-01-08",
+        "Category": "Entertainment",
+        "Amount": 20.00,
+        "Description": "Movie night"
+    },
+    {
+        "Date": "2025-01-09",
+        "Category": "Food",
+        "Amount": 30.50,
+        "Description": "Dinner with friends"
+    }
+]
